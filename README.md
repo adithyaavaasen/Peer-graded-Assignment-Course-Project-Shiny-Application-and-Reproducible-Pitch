@@ -9,5 +9,5 @@ Source code for ui.R and server.R files are available on the GitHub:
 https://github.com/adithyaavaasen/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch
 
 The presentation is available at:
-http://raencinas.github.io/data_products_slidify/index
+https://github.com/adithyaavaasen/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/blob/master/index.html
 
